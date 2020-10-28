@@ -338,4 +338,8 @@
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
   }
+  {
+    "title": "git commit . -m "[commit message]",
+    "description": "commits all the files added to the staging area with a commit log message"
+  }
 ]
